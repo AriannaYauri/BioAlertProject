@@ -7,3 +7,6 @@
 
 ## 2025-04-29 - patch 3
 - Update changelog
+
+## 2025-04-30 - patch 1
+- Remove unused imports
