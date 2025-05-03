@@ -16,3 +16,6 @@
 
 ## 2025-05-02 - patch 1
 - Adjust component styling
+
+## 2025-05-02 - patch 2
+- Improve responsive layout
