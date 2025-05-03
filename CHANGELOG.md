@@ -19,3 +19,6 @@
 
 ## 2025-05-02 - patch 2
 - Improve responsive layout
+
+## 2025-05-02 - patch 3
+- Optimize re-renders
