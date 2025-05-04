@@ -28,3 +28,6 @@
 
 ## 2025-05-03 - patch 1
 - Handle edge case in sensor data
+
+## 2025-05-03 - patch 2
+- Remove unused imports
