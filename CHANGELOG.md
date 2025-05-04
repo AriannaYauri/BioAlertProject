@@ -37,3 +37,6 @@
 
 ## 2025-05-03 - patch 4
 - Type annotation cleanup
+
+## 2025-05-03 - patch 5
+- Alert threshold validation
