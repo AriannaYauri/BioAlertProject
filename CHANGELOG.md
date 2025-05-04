@@ -25,3 +25,6 @@
 
 ## 2025-05-02 - patch 4
 - Handle edge case in sensor data
+
+## 2025-05-03 - patch 1
+- Handle edge case in sensor data
