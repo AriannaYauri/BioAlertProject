@@ -46,3 +46,6 @@
 
 ## 2025-05-05 - patch 2
 - Tweak color palette
+
+## 2025-05-05 - patch 3
+- Type annotation cleanup
