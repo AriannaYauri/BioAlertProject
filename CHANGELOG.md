@@ -40,3 +40,6 @@
 
 ## 2025-05-03 - patch 5
 - Alert threshold validation
+
+## 2025-05-05 - patch 1
+- Alert threshold validation
