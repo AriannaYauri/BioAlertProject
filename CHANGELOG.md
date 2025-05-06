@@ -43,3 +43,6 @@
 
 ## 2025-05-05 - patch 1
 - Alert threshold validation
+
+## 2025-05-05 - patch 2
+- Tweak color palette
