@@ -55,3 +55,6 @@
 
 ## 2025-05-06 - patch 2
 - Tweak color palette
+
+## 2025-05-06 - patch 3
+- Tweak color palette
