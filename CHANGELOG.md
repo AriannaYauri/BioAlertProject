@@ -58,3 +58,6 @@
 
 ## 2025-05-06 - patch 3
 - Tweak color palette
+
+## 2025-05-06 - patch 4
+- Simplify state management
