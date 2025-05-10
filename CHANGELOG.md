@@ -79,3 +79,6 @@
 
 ## 2025-05-08 - patch 1
 - Optimize re-renders
+
+## 2025-05-09 - patch 1
+- Optimize re-renders
