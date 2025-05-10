@@ -88,3 +88,6 @@
 
 ## 2025-05-09 - patch 3
 - Adjust component styling
+
+## 2025-05-09 - patch 4
+- Remove unused imports
