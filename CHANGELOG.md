@@ -97,3 +97,6 @@
 
 ## 2025-05-10 - patch 2
 - Minor code formatting
+
+## 2025-05-10 - patch 3
+- Update changelog
