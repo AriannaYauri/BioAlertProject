@@ -91,3 +91,6 @@
 
 ## 2025-05-09 - patch 4
 - Remove unused imports
+
+## 2025-05-10 - patch 1
+- Optimize re-renders
