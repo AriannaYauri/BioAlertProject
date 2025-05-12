@@ -100,3 +100,6 @@
 
 ## 2025-05-10 - patch 3
 - Update changelog
+
+## 2025-05-11 - patch 1
+- Type annotation cleanup
