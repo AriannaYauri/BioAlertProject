@@ -112,3 +112,6 @@
 
 ## 2025-05-11 - patch 4
 - Clean up alert logic
+
+## 2025-05-11 - patch 5
+- Alert threshold validation
