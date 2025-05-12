@@ -109,3 +109,6 @@
 
 ## 2025-05-11 - patch 3
 - Handle edge case in sensor data
+
+## 2025-05-11 - patch 4
+- Clean up alert logic
