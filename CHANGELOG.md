@@ -127,3 +127,6 @@
 
 ## 2025-05-12 - patch 4
 - Tweak color palette
+
+## 2025-05-12 - patch 5
+- Optimize re-renders
