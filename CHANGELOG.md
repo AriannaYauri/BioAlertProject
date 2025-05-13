@@ -124,3 +124,6 @@
 
 ## 2025-05-12 - patch 3
 - Extract helper function
+
+## 2025-05-12 - patch 4
+- Tweak color palette
