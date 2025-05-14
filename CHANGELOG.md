@@ -130,3 +130,6 @@
 
 ## 2025-05-12 - patch 5
 - Optimize re-renders
+
+## 2025-05-13 - patch 1
+- Clean up alert logic
