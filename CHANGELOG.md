@@ -133,3 +133,6 @@
 
 ## 2025-05-13 - patch 1
 - Clean up alert logic
+
+## 2025-05-13 - patch 2
+- Simplify state management
