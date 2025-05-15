@@ -148,3 +148,6 @@
 
 ## 2025-05-14 - patch 1
 - Update component notes
+
+## 2025-05-14 - patch 2
+- Extract helper function
