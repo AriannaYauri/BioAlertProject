@@ -145,3 +145,6 @@
 
 ## 2025-05-13 - patch 5
 - Simplify state management
+
+## 2025-05-14 - patch 1
+- Update component notes
