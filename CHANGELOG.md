@@ -160,3 +160,6 @@
 
 ## 2025-05-15 - patch 1
 - Improve responsive layout
+
+## 2025-05-15 - patch 2
+- Improve responsive layout
