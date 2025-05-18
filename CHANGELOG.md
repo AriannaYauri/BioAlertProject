@@ -175,3 +175,6 @@
 
 ## 2025-05-17 - patch 3
 - Extract helper function
+
+## 2025-05-17 - patch 4
+- Alert threshold validation
