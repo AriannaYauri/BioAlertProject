@@ -169,3 +169,6 @@
 
 ## 2025-05-17 - patch 1
 - Update changelog
+
+## 2025-05-17 - patch 2
+- Update component notes
