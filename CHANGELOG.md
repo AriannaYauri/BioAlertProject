@@ -184,3 +184,6 @@
 
 ## 2025-05-18 - patch 2
 - Minor code formatting
+
+## 2025-05-18 - patch 3
+- Alert threshold validation
