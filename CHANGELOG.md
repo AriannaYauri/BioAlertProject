@@ -190,3 +190,6 @@
 
 ## 2025-05-18 - patch 4
 - Simplify state management
+
+## 2025-05-18 - patch 5
+- Clean up alert logic
