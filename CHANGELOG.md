@@ -205,3 +205,6 @@
 
 ## 2025-05-20 - patch 2
 - Improve responsive layout
+
+## 2025-05-20 - patch 3
+- Update changelog
