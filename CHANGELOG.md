@@ -202,3 +202,6 @@
 
 ## 2025-05-20 - patch 1
 - Tweak color palette
+
+## 2025-05-20 - patch 2
+- Improve responsive layout
