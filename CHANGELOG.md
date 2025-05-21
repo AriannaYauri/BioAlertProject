@@ -199,3 +199,6 @@
 
 ## 2025-05-19 - patch 2
 - Minor code formatting
+
+## 2025-05-20 - patch 1
+- Tweak color palette
