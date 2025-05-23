@@ -223,3 +223,6 @@
 
 ## 2025-05-22 - patch 1
 - Improve responsive layout
+
+## 2025-05-22 - patch 2
+- Handle edge case in sensor data
