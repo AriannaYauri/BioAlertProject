@@ -229,3 +229,6 @@
 
 ## 2025-05-23 - patch 1
 - Alert threshold validation
+
+## 2025-05-24 - patch 1
+- Update changelog
