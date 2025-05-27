@@ -232,3 +232,6 @@
 
 ## 2025-05-24 - patch 1
 - Update changelog
+
+## 2025-05-26 - patch 1
+- Adjust component styling
