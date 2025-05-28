@@ -247,3 +247,6 @@
 
 ## 2025-05-27 - patch 4
 - Update component notes
+
+## 2025-05-27 - patch 5
+- Update changelog
