@@ -253,3 +253,6 @@
 
 ## 2025-05-29 - patch 1
 - Extract helper function
+
+## 2025-05-29 - patch 2
+- Update changelog
