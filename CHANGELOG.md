@@ -256,3 +256,6 @@
 
 ## 2025-05-29 - patch 2
 - Update changelog
+
+## 2025-05-29 - patch 3
+- Update component notes
