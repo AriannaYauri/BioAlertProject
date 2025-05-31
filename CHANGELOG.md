@@ -274,3 +274,6 @@
 
 ## 2025-05-30 - patch 4
 - Simplify state management
+
+## 2025-05-30 - patch 5
+- Alert threshold validation
