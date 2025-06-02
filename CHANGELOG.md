@@ -280,3 +280,6 @@
 
 ## 2025-06-01 - patch 1
 - Improve responsive layout
+
+## 2025-06-01 - patch 2
+- Improve responsive layout
