@@ -292,3 +292,6 @@
 
 ## 2025-06-02 - patch 3
 - Handle edge case in sensor data
+
+## 2025-06-02 - patch 4
+- Tweak color palette
