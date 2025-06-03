@@ -289,3 +289,6 @@
 
 ## 2025-06-02 - patch 2
 - Update component notes
+
+## 2025-06-02 - patch 3
+- Handle edge case in sensor data
