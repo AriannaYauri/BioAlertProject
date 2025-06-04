@@ -295,3 +295,6 @@
 
 ## 2025-06-02 - patch 4
 - Tweak color palette
+
+## 2025-06-03 - patch 1
+- Update changelog
