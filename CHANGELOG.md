@@ -313,3 +313,6 @@
 
 ## 2025-06-07 - patch 1
 - Clean up alert logic
+
+## 2025-06-07 - patch 2
+- Update changelog
