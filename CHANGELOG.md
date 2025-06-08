@@ -316,3 +316,6 @@
 
 ## 2025-06-07 - patch 2
 - Update changelog
+
+## 2025-06-07 - patch 3
+- Update component notes
