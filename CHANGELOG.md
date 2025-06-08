@@ -319,3 +319,6 @@
 
 ## 2025-06-07 - patch 3
 - Update component notes
+
+## 2025-06-07 - patch 4
+- Adjust component styling
