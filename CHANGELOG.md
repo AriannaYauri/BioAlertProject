@@ -325,3 +325,6 @@
 
 ## 2025-06-08 - patch 1
 - Simplify state management
+
+## 2025-06-08 - patch 2
+- Improve responsive layout
