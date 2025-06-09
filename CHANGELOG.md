@@ -328,3 +328,6 @@
 
 ## 2025-06-08 - patch 2
 - Improve responsive layout
+
+## 2025-06-08 - patch 3
+- Extract helper function
