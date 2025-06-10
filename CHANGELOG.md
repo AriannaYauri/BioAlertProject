@@ -331,3 +331,6 @@
 
 ## 2025-06-08 - patch 3
 - Extract helper function
+
+## 2025-06-09 - patch 1
+- Simplify state management
