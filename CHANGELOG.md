@@ -334,3 +334,6 @@
 
 ## 2025-06-09 - patch 1
 - Simplify state management
+
+## 2025-06-09 - patch 2
+- Update changelog
