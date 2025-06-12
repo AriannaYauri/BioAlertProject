@@ -340,3 +340,6 @@
 
 ## 2025-06-09 - patch 3
 - Update component notes
+
+## 2025-06-11 - patch 1
+- Extract helper function
