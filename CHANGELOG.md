@@ -343,3 +343,6 @@
 
 ## 2025-06-11 - patch 1
 - Extract helper function
+
+## 2025-06-11 - patch 2
+- Clean up alert logic
