@@ -346,3 +346,6 @@
 
 ## 2025-06-11 - patch 2
 - Clean up alert logic
+
+## 2025-06-12 - patch 1
+- Optimize re-renders
