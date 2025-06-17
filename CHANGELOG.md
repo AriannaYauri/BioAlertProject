@@ -388,3 +388,6 @@
 
 ## 2025-06-16 - patch 4
 - Simplify state management
+
+## 2025-06-16 - patch 5
+- Type annotation cleanup
