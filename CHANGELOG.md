@@ -385,3 +385,6 @@
 
 ## 2025-06-16 - patch 3
 - Handle edge case in sensor data
+
+## 2025-06-16 - patch 4
+- Simplify state management
