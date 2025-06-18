@@ -403,3 +403,6 @@
 
 ## 2025-06-17 - patch 4
 - Minor code formatting
+
+## 2025-06-17 - patch 5
+- Extract helper function
