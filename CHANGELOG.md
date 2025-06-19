@@ -409,3 +409,6 @@
 
 ## 2025-06-18 - patch 1
 - Tweak color palette
+
+## 2025-06-18 - patch 2
+- Alert threshold validation
