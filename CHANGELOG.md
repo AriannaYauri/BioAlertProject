@@ -415,3 +415,6 @@
 
 ## 2025-06-21 - patch 1
 - Minor code formatting
+
+## 2025-06-21 - patch 2
+- Type annotation cleanup
