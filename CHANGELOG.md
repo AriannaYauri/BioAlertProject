@@ -424,3 +424,6 @@
 
 ## 2025-06-22 - patch 1
 - Minor code formatting
+
+## 2025-06-22 - patch 2
+- Update changelog
