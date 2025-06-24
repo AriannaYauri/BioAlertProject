@@ -433,3 +433,6 @@
 
 ## 2025-06-23 - patch 2
 - Optimize re-renders
+
+## 2025-06-23 - patch 3
+- Alert threshold validation
