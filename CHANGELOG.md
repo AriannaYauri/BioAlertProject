@@ -427,3 +427,6 @@
 
 ## 2025-06-22 - patch 2
 - Update changelog
+
+## 2025-06-23 - patch 1
+- Type annotation cleanup
