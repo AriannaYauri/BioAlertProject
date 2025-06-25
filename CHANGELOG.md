@@ -442,3 +442,6 @@
 
 ## 2025-06-24 - patch 1
 - Type annotation cleanup
+
+## 2025-06-24 - patch 2
+- Handle edge case in sensor data
