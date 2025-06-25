@@ -439,3 +439,6 @@
 
 ## 2025-06-23 - patch 4
 - Optimize re-renders
+
+## 2025-06-24 - patch 1
+- Type annotation cleanup
