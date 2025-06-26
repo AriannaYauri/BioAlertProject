@@ -451,3 +451,6 @@
 
 ## 2025-06-24 - patch 4
 - Optimize re-renders
+
+## 2025-06-25 - patch 1
+- Update component notes
