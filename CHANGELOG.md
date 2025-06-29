@@ -481,3 +481,6 @@
 
 ## 2025-06-28 - patch 4
 - Update changelog
+
+## 2025-06-28 - patch 5
+- Update changelog
