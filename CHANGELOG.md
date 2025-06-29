@@ -478,3 +478,6 @@
 
 ## 2025-06-28 - patch 3
 - Remove unused imports
+
+## 2025-06-28 - patch 4
+- Update changelog
