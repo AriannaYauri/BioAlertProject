@@ -469,3 +469,6 @@
 
 ## 2025-06-27 - patch 2
 - Type annotation cleanup
+
+## 2025-06-28 - patch 1
+- Adjust component styling
