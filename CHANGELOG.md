@@ -484,3 +484,6 @@
 
 ## 2025-06-28 - patch 5
 - Update changelog
+
+## 2025-06-29 - patch 1
+- Type annotation cleanup
