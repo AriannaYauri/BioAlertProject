@@ -490,3 +490,6 @@
 
 ## 2025-06-29 - patch 2
 - Adjust component styling
+
+## 2025-06-29 - patch 3
+- Extract helper function
