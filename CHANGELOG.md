@@ -502,3 +502,6 @@
 
 ## 2025-06-30 - patch 3
 - Clean up alert logic
+
+## 2025-06-30 - patch 4
+- Adjust component styling
