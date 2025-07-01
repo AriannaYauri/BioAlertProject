@@ -499,3 +499,6 @@
 
 ## 2025-06-30 - patch 2
 - Tweak color palette
+
+## 2025-06-30 - patch 3
+- Clean up alert logic
