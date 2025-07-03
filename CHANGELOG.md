@@ -511,3 +511,6 @@
 
 ## 2025-07-02 - patch 2
 - Adjust component styling
+
+## 2025-07-02 - patch 3
+- Improve responsive layout
