@@ -535,3 +535,6 @@
 
 ## 2025-07-04 - patch 1
 - Update component notes
+
+## 2025-07-04 - patch 2
+- Clean up alert logic
