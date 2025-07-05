@@ -532,3 +532,6 @@
 
 ## 2025-07-03 - patch 5
 - Remove unused imports
+
+## 2025-07-04 - patch 1
+- Update component notes
