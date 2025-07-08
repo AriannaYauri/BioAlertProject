@@ -550,3 +550,6 @@
 
 ## 2025-07-07 - patch 3
 - Improve responsive layout
+
+## 2025-07-07 - patch 4
+- Type annotation cleanup
