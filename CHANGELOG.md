@@ -544,3 +544,6 @@
 
 ## 2025-07-07 - patch 1
 - Minor code formatting
+
+## 2025-07-07 - patch 2
+- Extract helper function
