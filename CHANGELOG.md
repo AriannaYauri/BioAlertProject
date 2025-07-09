@@ -562,3 +562,6 @@
 
 ## 2025-07-08 - patch 3
 - Simplify state management
+
+## 2025-07-08 - patch 4
+- Remove unused imports
