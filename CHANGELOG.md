@@ -556,3 +556,6 @@
 
 ## 2025-07-08 - patch 1
 - Minor code formatting
+
+## 2025-07-08 - patch 2
+- Remove unused imports
