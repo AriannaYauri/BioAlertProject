@@ -568,3 +568,6 @@
 
 ## 2025-07-09 - patch 1
 - Extract helper function
+
+## 2025-07-09 - patch 2
+- Update component notes
