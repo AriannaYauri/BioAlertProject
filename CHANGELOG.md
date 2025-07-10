@@ -574,3 +574,6 @@
 
 ## 2025-07-09 - patch 3
 - Improve responsive layout
+
+## 2025-07-09 - patch 4
+- Optimize re-renders
