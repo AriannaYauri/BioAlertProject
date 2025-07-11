@@ -589,3 +589,6 @@
 
 ## 2025-07-10 - patch 4
 - Improve responsive layout
+
+## 2025-07-10 - patch 5
+- Update component notes
