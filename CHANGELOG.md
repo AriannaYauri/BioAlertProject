@@ -595,3 +595,6 @@
 
 ## 2025-07-11 - patch 1
 - Minor code formatting
+
+## 2025-07-11 - patch 2
+- Improve responsive layout
