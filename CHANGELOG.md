@@ -598,3 +598,6 @@
 
 ## 2025-07-11 - patch 2
 - Improve responsive layout
+
+## 2025-07-12 - patch 1
+- Adjust component styling
