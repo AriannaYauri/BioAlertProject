@@ -616,3 +616,6 @@
 
 ## 2025-07-14 - patch 1
 - Update changelog
+
+## 2025-07-14 - patch 2
+- Tweak color palette
