@@ -613,3 +613,6 @@
 
 ## 2025-07-12 - patch 5
 - Minor code formatting
+
+## 2025-07-14 - patch 1
+- Update changelog
