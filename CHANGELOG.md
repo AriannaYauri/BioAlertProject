@@ -622,3 +622,6 @@
 
 ## 2025-07-16 - patch 1
 - Type annotation cleanup
+
+## 2025-07-16 - patch 2
+- Alert threshold validation
