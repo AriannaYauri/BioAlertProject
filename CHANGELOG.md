@@ -628,3 +628,6 @@
 
 ## 2025-07-16 - patch 3
 - Minor code formatting
+
+## 2025-07-17 - patch 1
+- Handle edge case in sensor data
