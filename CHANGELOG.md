@@ -661,3 +661,6 @@
 
 ## 2025-07-21 - patch 1
 - Minor code formatting
+
+## 2025-07-23 - patch 1
+- Clean up alert logic
