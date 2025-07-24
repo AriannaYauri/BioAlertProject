@@ -667,3 +667,6 @@
 
 ## 2025-07-23 - patch 2
 - Improve responsive layout
+
+## 2025-07-23 - patch 3
+- Remove unused imports
