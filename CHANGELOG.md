@@ -664,3 +664,6 @@
 
 ## 2025-07-23 - patch 1
 - Clean up alert logic
+
+## 2025-07-23 - patch 2
+- Improve responsive layout
