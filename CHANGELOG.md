@@ -670,3 +670,6 @@
 
 ## 2025-07-23 - patch 3
 - Remove unused imports
+
+## 2025-07-24 - patch 1
+- Handle edge case in sensor data
