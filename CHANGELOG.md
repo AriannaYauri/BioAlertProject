@@ -703,3 +703,6 @@
 
 ## 2025-07-26 - patch 3
 - Remove unused imports
+
+## 2025-07-26 - patch 4
+- Extract helper function
