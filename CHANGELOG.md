@@ -700,3 +700,6 @@
 
 ## 2025-07-26 - patch 2
 - Type annotation cleanup
+
+## 2025-07-26 - patch 3
+- Remove unused imports
