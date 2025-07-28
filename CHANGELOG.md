@@ -706,3 +706,6 @@
 
 ## 2025-07-26 - patch 4
 - Extract helper function
+
+## 2025-07-27 - patch 1
+- Simplify state management
