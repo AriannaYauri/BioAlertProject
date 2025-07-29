@@ -709,3 +709,6 @@
 
 ## 2025-07-27 - patch 1
 - Simplify state management
+
+## 2025-07-28 - patch 1
+- Remove unused imports
