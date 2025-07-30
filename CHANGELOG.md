@@ -712,3 +712,6 @@
 
 ## 2025-07-28 - patch 1
 - Remove unused imports
+
+## 2025-07-29 - patch 1
+- Clean up alert logic
