@@ -715,3 +715,6 @@
 
 ## 2025-07-29 - patch 1
 - Clean up alert logic
+
+## 2025-07-29 - patch 2
+- Extract helper function
