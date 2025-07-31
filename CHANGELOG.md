@@ -721,3 +721,6 @@
 
 ## 2025-07-30 - patch 1
 - Alert threshold validation
+
+## 2025-07-30 - patch 2
+- Adjust component styling
