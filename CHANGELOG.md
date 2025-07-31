@@ -724,3 +724,6 @@
 
 ## 2025-07-30 - patch 2
 - Adjust component styling
+
+## 2025-07-30 - patch 3
+- Tweak color palette
