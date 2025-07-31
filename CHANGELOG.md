@@ -727,3 +727,6 @@
 
 ## 2025-07-30 - patch 3
 - Tweak color palette
+
+## 2025-07-30 - patch 4
+- Update component notes
