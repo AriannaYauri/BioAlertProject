@@ -736,3 +736,6 @@
 
 ## 2025-07-31 - patch 2
 - Tweak color palette
+
+## 2025-07-31 - patch 3
+- Alert threshold validation
