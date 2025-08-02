@@ -742,3 +742,6 @@
 
 ## 2025-07-31 - patch 4
 - Adjust component styling
+
+## 2025-08-01 - patch 1
+- Optimize re-renders
