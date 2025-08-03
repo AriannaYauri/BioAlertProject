@@ -751,3 +751,6 @@
 
 ## 2025-08-02 - patch 2
 - Improve responsive layout
+
+## 2025-08-02 - patch 3
+- Type annotation cleanup
