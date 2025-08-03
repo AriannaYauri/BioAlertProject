@@ -748,3 +748,6 @@
 
 ## 2025-08-02 - patch 1
 - Alert threshold validation
+
+## 2025-08-02 - patch 2
+- Improve responsive layout
