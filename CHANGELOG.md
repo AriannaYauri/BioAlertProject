@@ -745,3 +745,6 @@
 
 ## 2025-08-01 - patch 1
 - Optimize re-renders
+
+## 2025-08-02 - patch 1
+- Alert threshold validation
