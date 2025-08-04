@@ -757,3 +757,6 @@
 
 ## 2025-08-02 - patch 4
 - Minor code formatting
+
+## 2025-08-03 - patch 1
+- Adjust component styling
