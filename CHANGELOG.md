@@ -760,3 +760,6 @@
 
 ## 2025-08-03 - patch 1
 - Adjust component styling
+
+## 2025-08-03 - patch 2
+- Update changelog
