@@ -763,3 +763,6 @@
 
 ## 2025-08-03 - patch 2
 - Update changelog
+
+## 2025-08-03 - patch 3
+- Tweak color palette
