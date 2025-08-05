@@ -772,3 +772,6 @@
 
 ## 2025-08-04 - patch 2
 - Optimize re-renders
+
+## 2025-08-04 - patch 3
+- Update changelog
