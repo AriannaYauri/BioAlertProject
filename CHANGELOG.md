@@ -766,3 +766,6 @@
 
 ## 2025-08-03 - patch 3
 - Tweak color palette
+
+## 2025-08-04 - patch 1
+- Clean up alert logic
