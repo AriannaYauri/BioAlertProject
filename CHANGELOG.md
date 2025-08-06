@@ -775,3 +775,6 @@
 
 ## 2025-08-04 - patch 3
 - Update changelog
+
+## 2025-08-05 - patch 1
+- Improve responsive layout
