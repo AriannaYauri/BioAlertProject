@@ -784,3 +784,6 @@
 
 ## 2025-08-05 - patch 3
 - Optimize re-renders
+
+## 2025-08-05 - patch 4
+- Remove unused imports
