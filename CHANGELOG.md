@@ -790,3 +790,6 @@
 
 ## 2025-08-06 - patch 1
 - Simplify state management
+
+## 2025-08-06 - patch 2
+- Improve responsive layout
