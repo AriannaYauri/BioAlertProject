@@ -802,3 +802,6 @@
 
 ## 2025-08-07 - patch 2
 - Type annotation cleanup
+
+## 2025-08-07 - patch 3
+- Remove unused imports
