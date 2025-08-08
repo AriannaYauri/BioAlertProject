@@ -799,3 +799,6 @@
 
 ## 2025-08-07 - patch 1
 - Update changelog
+
+## 2025-08-07 - patch 2
+- Type annotation cleanup
