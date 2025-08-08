@@ -796,3 +796,6 @@
 
 ## 2025-08-06 - patch 3
 - Alert threshold validation
+
+## 2025-08-07 - patch 1
+- Update changelog
