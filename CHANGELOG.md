@@ -814,3 +814,6 @@
 
 ## 2025-08-11 - patch 1
 - Simplify state management
+
+## 2025-08-11 - patch 2
+- Type annotation cleanup
