@@ -832,3 +832,6 @@
 
 ## 2025-08-12 - patch 3
 - Simplify state management
+
+## 2025-08-12 - patch 4
+- Clean up alert logic
