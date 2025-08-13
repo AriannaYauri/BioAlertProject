@@ -829,3 +829,6 @@
 
 ## 2025-08-12 - patch 2
 - Adjust component styling
+
+## 2025-08-12 - patch 3
+- Simplify state management
