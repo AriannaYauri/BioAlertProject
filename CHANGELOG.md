@@ -838,3 +838,6 @@
 
 ## 2025-08-13 - patch 1
 - Optimize re-renders
+
+## 2025-08-13 - patch 2
+- Improve responsive layout
