@@ -850,3 +850,6 @@
 
 ## 2025-08-16 - patch 2
 - Improve responsive layout
+
+## 2025-08-16 - patch 3
+- Clean up alert logic
