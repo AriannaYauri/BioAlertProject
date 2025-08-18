@@ -856,3 +856,6 @@
 
 ## 2025-08-17 - patch 1
 - Adjust component styling
+
+## 2025-08-17 - patch 2
+- Clean up alert logic
