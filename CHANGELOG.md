@@ -868,3 +868,6 @@
 
 ## 2025-08-19 - patch 1
 - Minor code formatting
+
+## 2025-08-19 - patch 2
+- Update component notes
