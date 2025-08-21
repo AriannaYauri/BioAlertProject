@@ -877,3 +877,6 @@
 
 ## 2025-08-19 - patch 4
 - Simplify state management
+
+## 2025-08-20 - patch 1
+- Simplify state management
