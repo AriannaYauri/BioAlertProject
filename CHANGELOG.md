@@ -883,3 +883,6 @@
 
 ## 2025-08-20 - patch 2
 - Adjust component styling
+
+## 2025-08-20 - patch 3
+- Type annotation cleanup
