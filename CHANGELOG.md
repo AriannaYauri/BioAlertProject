@@ -895,3 +895,6 @@
 
 ## 2025-08-21 - patch 1
 - Minor code formatting
+
+## 2025-08-21 - patch 2
+- Simplify state management
