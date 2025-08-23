@@ -898,3 +898,6 @@
 
 ## 2025-08-21 - patch 2
 - Simplify state management
+
+## 2025-08-22 - patch 1
+- Optimize re-renders
