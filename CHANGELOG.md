@@ -904,3 +904,6 @@
 
 ## 2025-08-23 - patch 1
 - Update component notes
+
+## 2025-08-24 - patch 1
+- Improve responsive layout
