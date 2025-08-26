@@ -910,3 +910,6 @@
 
 ## 2025-08-24 - patch 2
 - Type annotation cleanup
+
+## 2025-08-25 - patch 1
+- Improve responsive layout
