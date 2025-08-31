@@ -931,3 +931,6 @@
 
 ## 2025-08-30 - patch 2
 - Alert threshold validation
+
+## 2025-08-30 - patch 3
+- Adjust component styling
