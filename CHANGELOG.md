@@ -928,3 +928,6 @@
 
 ## 2025-08-30 - patch 1
 - Update component notes
+
+## 2025-08-30 - patch 2
+- Alert threshold validation
