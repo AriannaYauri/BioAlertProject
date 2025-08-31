@@ -934,3 +934,6 @@
 
 ## 2025-08-30 - patch 3
 - Adjust component styling
+
+## 2025-08-30 - patch 4
+- Update changelog
