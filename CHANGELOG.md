@@ -937,3 +937,6 @@
 
 ## 2025-08-30 - patch 4
 - Update changelog
+
+## 2025-08-31 - patch 1
+- Minor code formatting
