@@ -940,3 +940,6 @@
 
 ## 2025-08-31 - patch 1
 - Minor code formatting
+
+## 2025-09-02 - patch 1
+- Handle edge case in sensor data
