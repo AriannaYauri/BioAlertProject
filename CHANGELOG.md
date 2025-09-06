@@ -958,3 +958,6 @@
 
 ## 2025-09-05 - patch 3
 - Optimize re-renders
+
+## 2025-09-05 - patch 4
+- Update changelog
