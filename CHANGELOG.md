@@ -952,3 +952,6 @@
 
 ## 2025-09-05 - patch 1
 - Improve responsive layout
+
+## 2025-09-05 - patch 2
+- Remove unused imports
