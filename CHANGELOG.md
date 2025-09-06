@@ -949,3 +949,6 @@
 
 ## 2025-09-04 - patch 1
 - Optimize re-renders
+
+## 2025-09-05 - patch 1
+- Improve responsive layout
