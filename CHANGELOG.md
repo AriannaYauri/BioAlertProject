@@ -961,3 +961,6 @@
 
 ## 2025-09-05 - patch 4
 - Update changelog
+
+## 2025-09-06 - patch 1
+- Extract helper function
