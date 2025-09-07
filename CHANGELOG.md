@@ -970,3 +970,6 @@
 
 ## 2025-09-06 - patch 3
 - Alert threshold validation
+
+## 2025-09-06 - patch 4
+- Simplify state management
