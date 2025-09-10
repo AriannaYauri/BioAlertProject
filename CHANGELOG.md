@@ -979,3 +979,6 @@
 
 ## 2025-09-09 - patch 2
 - Remove unused imports
+
+## 2025-09-09 - patch 3
+- Update changelog
