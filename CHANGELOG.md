@@ -982,3 +982,6 @@
 
 ## 2025-09-09 - patch 3
 - Update changelog
+
+## 2025-09-09 - patch 4
+- Adjust component styling
