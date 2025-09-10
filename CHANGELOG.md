@@ -973,3 +973,6 @@
 
 ## 2025-09-06 - patch 4
 - Simplify state management
+
+## 2025-09-09 - patch 1
+- Improve responsive layout
