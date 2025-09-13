@@ -991,3 +991,6 @@
 
 ## 2025-09-12 - patch 1
 - Improve responsive layout
+
+## 2025-09-12 - patch 2
+- Extract helper function
