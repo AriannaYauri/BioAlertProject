@@ -997,3 +997,6 @@
 
 ## 2025-09-12 - patch 3
 - Type annotation cleanup
+
+## 2025-09-13 - patch 1
+- Adjust component styling
