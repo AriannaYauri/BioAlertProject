@@ -1000,3 +1000,6 @@
 
 ## 2025-09-13 - patch 1
 - Adjust component styling
+
+## 2025-09-14 - patch 1
+- Update component notes
