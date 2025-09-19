@@ -1024,3 +1024,6 @@
 
 ## 2025-09-17 - patch 3
 - Remove unused imports
+
+## 2025-09-18 - patch 1
+- Clean up alert logic
