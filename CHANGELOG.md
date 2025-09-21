@@ -1033,3 +1033,6 @@
 
 ## 2025-09-18 - patch 3
 - Type annotation cleanup
+
+## 2025-09-20 - patch 1
+- Update component notes
