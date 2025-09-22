@@ -1054,3 +1054,6 @@
 
 ## 2025-09-21 - patch 3
 - Improve responsive layout
+
+## 2025-09-21 - patch 4
+- Alert threshold validation
