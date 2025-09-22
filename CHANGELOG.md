@@ -1051,3 +1051,6 @@
 
 ## 2025-09-21 - patch 2
 - Remove unused imports
+
+## 2025-09-21 - patch 3
+- Improve responsive layout
