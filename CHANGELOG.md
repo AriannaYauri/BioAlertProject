@@ -1069,3 +1069,6 @@
 
 ## 2025-09-23 - patch 1
 - Type annotation cleanup
+
+## 2025-09-23 - patch 2
+- Extract helper function
