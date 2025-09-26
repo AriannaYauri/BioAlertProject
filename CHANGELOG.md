@@ -1093,3 +1093,6 @@
 
 ## 2025-09-25 - patch 2
 - Handle edge case in sensor data
+
+## 2025-09-25 - patch 3
+- Type annotation cleanup
