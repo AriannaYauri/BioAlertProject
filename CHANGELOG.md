@@ -1087,3 +1087,6 @@
 
 ## 2025-09-24 - patch 2
 - Optimize re-renders
+
+## 2025-09-25 - patch 1
+- Alert threshold validation
