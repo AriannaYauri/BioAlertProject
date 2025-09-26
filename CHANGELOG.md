@@ -1096,3 +1096,6 @@
 
 ## 2025-09-25 - patch 3
 - Type annotation cleanup
+
+## 2025-09-25 - patch 4
+- Type annotation cleanup
