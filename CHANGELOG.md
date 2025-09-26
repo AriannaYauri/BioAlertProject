@@ -1090,3 +1090,6 @@
 
 ## 2025-09-25 - patch 1
 - Alert threshold validation
+
+## 2025-09-25 - patch 2
+- Handle edge case in sensor data
