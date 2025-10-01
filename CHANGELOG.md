@@ -1138,3 +1138,6 @@
 
 ## 2025-09-30 - patch 1
 - Improve responsive layout
+
+## 2025-09-30 - patch 2
+- Improve responsive layout
