@@ -1135,3 +1135,6 @@
 
 ## 2025-09-29 - patch 4
 - Update changelog
+
+## 2025-09-30 - patch 1
+- Improve responsive layout
