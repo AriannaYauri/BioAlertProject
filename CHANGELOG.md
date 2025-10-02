@@ -1153,3 +1153,6 @@
 
 ## 2025-10-01 - patch 4
 - Tweak color palette
+
+## 2025-10-01 - patch 5
+- Improve responsive layout
