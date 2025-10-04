@@ -1168,3 +1168,6 @@
 
 ## 2025-10-02 - patch 4
 - Simplify state management
+
+## 2025-10-03 - patch 1
+- Update changelog
