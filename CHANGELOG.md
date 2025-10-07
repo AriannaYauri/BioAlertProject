@@ -1183,3 +1183,6 @@
 
 ## 2025-10-06 - patch 2
 - Minor code formatting
+
+## 2025-10-06 - patch 3
+- Remove unused imports
