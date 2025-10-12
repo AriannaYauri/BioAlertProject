@@ -1213,3 +1213,6 @@
 
 ## 2025-10-10 - patch 5
 - Minor code formatting
+
+## 2025-10-11 - patch 1
+- Type annotation cleanup
