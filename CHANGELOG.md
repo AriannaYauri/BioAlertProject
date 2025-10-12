@@ -1222,3 +1222,6 @@
 
 ## 2025-10-11 - patch 3
 - Simplify state management
+
+## 2025-10-11 - patch 4
+- Improve responsive layout
