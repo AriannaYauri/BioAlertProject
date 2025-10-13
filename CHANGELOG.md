@@ -1237,3 +1237,6 @@
 
 ## 2025-10-12 - patch 3
 - Minor code formatting
+
+## 2025-10-12 - patch 4
+- Type annotation cleanup
