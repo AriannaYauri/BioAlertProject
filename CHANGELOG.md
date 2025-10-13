@@ -1240,3 +1240,6 @@
 
 ## 2025-10-12 - patch 4
 - Type annotation cleanup
+
+## 2025-10-12 - patch 5
+- Optimize re-renders
