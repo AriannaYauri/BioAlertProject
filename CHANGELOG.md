@@ -1228,3 +1228,6 @@
 
 ## 2025-10-11 - patch 5
 - Tweak color palette
+
+## 2025-10-12 - patch 1
+- Alert threshold validation
