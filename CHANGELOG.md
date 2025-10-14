@@ -1243,3 +1243,6 @@
 
 ## 2025-10-12 - patch 5
 - Optimize re-renders
+
+## 2025-10-13 - patch 1
+- Simplify state management
