@@ -1252,3 +1252,6 @@
 
 ## 2025-10-13 - patch 3
 - Clean up alert logic
+
+## 2025-10-14 - patch 1
+- Update component notes
