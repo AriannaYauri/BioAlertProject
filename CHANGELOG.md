@@ -1258,3 +1258,6 @@
 
 ## 2025-10-14 - patch 2
 - Simplify state management
+
+## 2025-10-14 - patch 3
+- Alert threshold validation
