@@ -1285,3 +1285,6 @@
 
 ## 2025-10-16 - patch 5
 - Type annotation cleanup
+
+## 2025-10-18 - patch 1
+- Clean up alert logic
