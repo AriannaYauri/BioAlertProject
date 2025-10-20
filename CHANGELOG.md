@@ -1297,3 +1297,6 @@
 
 ## 2025-10-18 - patch 4
 - Adjust component styling
+
+## 2025-10-19 - patch 1
+- Update component notes
