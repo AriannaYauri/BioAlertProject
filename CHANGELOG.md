@@ -1306,3 +1306,6 @@
 
 ## 2025-10-19 - patch 3
 - Clean up alert logic
+
+## 2025-10-19 - patch 4
+- Clean up alert logic
