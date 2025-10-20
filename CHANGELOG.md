@@ -1300,3 +1300,6 @@
 
 ## 2025-10-19 - patch 1
 - Update component notes
+
+## 2025-10-19 - patch 2
+- Simplify state management
