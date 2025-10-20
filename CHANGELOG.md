@@ -1303,3 +1303,6 @@
 
 ## 2025-10-19 - patch 2
 - Simplify state management
+
+## 2025-10-19 - patch 3
+- Clean up alert logic
