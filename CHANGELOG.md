@@ -1312,3 +1312,6 @@
 
 ## 2025-10-19 - patch 5
 - Optimize re-renders
+
+## 2025-10-20 - patch 1
+- Improve responsive layout
