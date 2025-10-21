@@ -1315,3 +1315,6 @@
 
 ## 2025-10-20 - patch 1
 - Improve responsive layout
+
+## 2025-10-20 - patch 2
+- Clean up alert logic
