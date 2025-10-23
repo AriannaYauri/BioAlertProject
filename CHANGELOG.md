@@ -1321,3 +1321,6 @@
 
 ## 2025-10-22 - patch 1
 - Update changelog
+
+## 2025-10-22 - patch 2
+- Optimize re-renders
