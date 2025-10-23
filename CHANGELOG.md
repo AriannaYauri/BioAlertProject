@@ -1318,3 +1318,6 @@
 
 ## 2025-10-20 - patch 2
 - Clean up alert logic
+
+## 2025-10-22 - patch 1
+- Update changelog
