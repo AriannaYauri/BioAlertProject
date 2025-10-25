@@ -1330,3 +1330,6 @@
 
 ## 2025-10-23 - patch 1
 - Type annotation cleanup
+
+## 2025-10-24 - patch 1
+- Remove unused imports
