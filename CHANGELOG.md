@@ -1342,3 +1342,6 @@
 
 ## 2025-10-26 - patch 3
 - Update component notes
+
+## 2025-10-26 - patch 4
+- Simplify state management
