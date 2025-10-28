@@ -1351,3 +1351,6 @@
 
 ## 2025-10-27 - patch 1
 - Type annotation cleanup
+
+## 2025-10-27 - patch 2
+- Update changelog
