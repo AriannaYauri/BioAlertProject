@@ -1354,3 +1354,6 @@
 
 ## 2025-10-27 - patch 2
 - Update changelog
+
+## 2025-10-27 - patch 3
+- Remove unused imports
