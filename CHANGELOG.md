@@ -1360,3 +1360,6 @@
 
 ## 2025-10-28 - patch 1
 - Update changelog
+
+## 2025-10-28 - patch 2
+- Adjust component styling
