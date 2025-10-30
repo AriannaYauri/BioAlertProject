@@ -1372,3 +1372,6 @@
 
 ## 2025-10-29 - patch 3
 - Optimize re-renders
+
+## 2025-10-29 - patch 4
+- Alert threshold validation
