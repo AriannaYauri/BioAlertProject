@@ -1414,3 +1414,6 @@
 
 ## 2025-11-07 - patch 4
 - Minor code formatting
+
+## 2025-11-07 - patch 5
+- Remove unused imports
