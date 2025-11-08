@@ -1402,3 +1402,6 @@
 
 ## 2025-11-06 - patch 1
 - Adjust component styling
+
+## 2025-11-07 - patch 1
+- Handle edge case in sensor data
