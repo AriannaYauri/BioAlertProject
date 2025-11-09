@@ -1417,3 +1417,6 @@
 
 ## 2025-11-07 - patch 5
 - Remove unused imports
+
+## 2025-11-08 - patch 1
+- Tweak color palette
