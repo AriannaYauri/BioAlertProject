@@ -1435,3 +1435,6 @@
 
 ## 2025-11-10 - patch 1
 - Simplify state management
+
+## 2025-11-10 - patch 2
+- Update changelog
