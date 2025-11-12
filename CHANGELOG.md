@@ -1444,3 +1444,6 @@
 
 ## 2025-11-11 - patch 1
 - Tweak color palette
+
+## 2025-11-11 - patch 2
+- Simplify state management
