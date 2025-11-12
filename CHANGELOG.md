@@ -1447,3 +1447,6 @@
 
 ## 2025-11-11 - patch 2
 - Simplify state management
+
+## 2025-11-11 - patch 3
+- Clean up alert logic
