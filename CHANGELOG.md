@@ -1453,3 +1453,6 @@
 
 ## 2025-11-11 - patch 4
 - Clean up alert logic
+
+## 2025-11-13 - patch 1
+- Update changelog
