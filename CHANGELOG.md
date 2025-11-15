@@ -1465,3 +1465,6 @@
 
 ## 2025-11-14 - patch 2
 - Remove unused imports
+
+## 2025-11-14 - patch 3
+- Adjust component styling
