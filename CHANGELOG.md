@@ -1504,3 +1504,6 @@
 
 ## 2025-11-19 - patch 2
 - Remove unused imports
+
+## 2025-11-19 - patch 3
+- Clean up alert logic
