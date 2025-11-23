@@ -1528,3 +1528,6 @@
 
 ## 2025-11-22 - patch 3
 - Update component notes
+
+## 2025-11-22 - patch 4
+- Clean up alert logic
