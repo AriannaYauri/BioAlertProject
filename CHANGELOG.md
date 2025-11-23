@@ -1519,3 +1519,6 @@
 
 ## 2025-11-21 - patch 4
 - Update component notes
+
+## 2025-11-22 - patch 1
+- Update changelog
