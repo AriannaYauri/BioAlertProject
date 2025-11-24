@@ -1531,3 +1531,6 @@
 
 ## 2025-11-22 - patch 4
 - Clean up alert logic
+
+## 2025-11-23 - patch 1
+- Tweak color palette
