@@ -1540,3 +1540,6 @@
 
 ## 2025-11-23 - patch 3
 - Simplify state management
+
+## 2025-11-24 - patch 1
+- Improve responsive layout
