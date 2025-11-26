@@ -1555,3 +1555,6 @@
 
 ## 2025-11-25 - patch 1
 - Improve responsive layout
+
+## 2025-11-25 - patch 2
+- Update changelog
