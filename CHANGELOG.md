@@ -1558,3 +1558,6 @@
 
 ## 2025-11-25 - patch 2
 - Update changelog
+
+## 2025-11-25 - patch 3
+- Simplify state management
