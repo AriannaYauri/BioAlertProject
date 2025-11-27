@@ -1570,3 +1570,6 @@
 
 ## 2025-11-26 - patch 3
 - Update changelog
+
+## 2025-11-26 - patch 4
+- Tweak color palette
