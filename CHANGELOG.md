@@ -1579,3 +1579,6 @@
 
 ## 2025-11-27 - patch 1
 - Update component notes
+
+## 2025-11-27 - patch 2
+- Tweak color palette
