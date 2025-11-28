@@ -1576,3 +1576,6 @@
 
 ## 2025-11-26 - patch 5
 - Minor code formatting
+
+## 2025-11-27 - patch 1
+- Update component notes
