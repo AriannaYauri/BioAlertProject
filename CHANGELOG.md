@@ -1591,3 +1591,6 @@
 
 ## 2025-11-29 - patch 2
 - Minor code formatting
+
+## 2025-11-29 - patch 3
+- Simplify state management
