@@ -1609,3 +1609,6 @@
 
 ## 2025-12-02 - patch 2
 - Update component notes
+
+## 2025-12-02 - patch 3
+- Remove unused imports
