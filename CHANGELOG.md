@@ -1603,3 +1603,6 @@
 
 ## 2025-11-30 - patch 3
 - Optimize re-renders
+
+## 2025-12-02 - patch 1
+- Improve responsive layout
