@@ -1618,3 +1618,6 @@
 
 ## 2025-12-03 - patch 2
 - Tweak color palette
+
+## 2025-12-03 - patch 3
+- Update changelog
