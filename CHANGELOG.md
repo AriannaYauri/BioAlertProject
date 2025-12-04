@@ -1612,3 +1612,6 @@
 
 ## 2025-12-02 - patch 3
 - Remove unused imports
+
+## 2025-12-03 - patch 1
+- Type annotation cleanup
