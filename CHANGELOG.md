@@ -1615,3 +1615,6 @@
 
 ## 2025-12-03 - patch 1
 - Type annotation cleanup
+
+## 2025-12-03 - patch 2
+- Tweak color palette
