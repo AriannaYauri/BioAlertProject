@@ -1624,3 +1624,6 @@
 
 ## 2025-12-05 - patch 1
 - Update changelog
+
+## 2025-12-05 - patch 2
+- Update component notes
