@@ -1654,3 +1654,6 @@
 
 ## 2025-12-09 - patch 5
 - Tweak color palette
+
+## 2025-12-10 - patch 1
+- Clean up alert logic
