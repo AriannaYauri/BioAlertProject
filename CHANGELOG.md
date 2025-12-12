@@ -1663,3 +1663,6 @@
 
 ## 2025-12-11 - patch 2
 - Type annotation cleanup
+
+## 2025-12-11 - patch 3
+- Alert threshold validation
