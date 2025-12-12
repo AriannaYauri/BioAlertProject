@@ -1666,3 +1666,6 @@
 
 ## 2025-12-11 - patch 3
 - Alert threshold validation
+
+## 2025-12-11 - patch 4
+- Update changelog
