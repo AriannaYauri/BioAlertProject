@@ -1669,3 +1669,6 @@
 
 ## 2025-12-11 - patch 4
 - Update changelog
+
+## 2025-12-11 - patch 5
+- Update changelog
