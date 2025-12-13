@@ -1672,3 +1672,6 @@
 
 ## 2025-12-11 - patch 5
 - Update changelog
+
+## 2025-12-12 - patch 1
+- Extract helper function
