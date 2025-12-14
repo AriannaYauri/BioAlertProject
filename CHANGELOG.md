@@ -1675,3 +1675,6 @@
 
 ## 2025-12-12 - patch 1
 - Extract helper function
+
+## 2025-12-13 - patch 1
+- Handle edge case in sensor data
