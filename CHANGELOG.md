@@ -1702,3 +1702,6 @@
 
 ## 2025-12-15 - patch 3
 - Minor code formatting
+
+## 2025-12-16 - patch 1
+- Update changelog
