@@ -1723,3 +1723,6 @@
 
 ## 2025-12-19 - patch 2
 - Remove unused imports
+
+## 2025-12-19 - patch 3
+- Type annotation cleanup
