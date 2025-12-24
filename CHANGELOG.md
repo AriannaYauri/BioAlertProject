@@ -1741,3 +1741,6 @@
 
 ## 2025-12-23 - patch 1
 - Optimize re-renders
+
+## 2025-12-23 - patch 2
+- Extract helper function
