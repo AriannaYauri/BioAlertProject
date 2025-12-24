@@ -1744,3 +1744,6 @@
 
 ## 2025-12-23 - patch 2
 - Extract helper function
+
+## 2025-12-23 - patch 3
+- Improve responsive layout
