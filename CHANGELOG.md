@@ -1756,3 +1756,6 @@
 
 ## 2025-12-25 - patch 1
 - Clean up alert logic
+
+## 2025-12-25 - patch 2
+- Alert threshold validation
