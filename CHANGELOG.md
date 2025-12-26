@@ -1753,3 +1753,6 @@
 
 ## 2025-12-24 - patch 2
 - Minor code formatting
+
+## 2025-12-25 - patch 1
+- Clean up alert logic
