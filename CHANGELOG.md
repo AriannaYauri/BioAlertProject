@@ -1759,3 +1759,6 @@
 
 ## 2025-12-25 - patch 2
 - Alert threshold validation
+
+## 2025-12-25 - patch 3
+- Update component notes
