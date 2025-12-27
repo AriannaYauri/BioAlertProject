@@ -1762,3 +1762,6 @@
 
 ## 2025-12-25 - patch 3
 - Update component notes
+
+## 2025-12-26 - patch 1
+- Improve responsive layout
