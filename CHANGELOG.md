@@ -1774,3 +1774,6 @@
 
 ## 2025-12-27 - patch 1
 - Clean up alert logic
+
+## 2025-12-27 - patch 2
+- Adjust component styling
