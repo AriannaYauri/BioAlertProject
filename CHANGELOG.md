@@ -1780,3 +1780,6 @@
 
 ## 2025-12-27 - patch 3
 - Minor code formatting
+
+## 2025-12-28 - patch 1
+- Extract helper function
