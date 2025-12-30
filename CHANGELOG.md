@@ -1801,3 +1801,6 @@
 
 ## 2025-12-29 - patch 4
 - Simplify state management
+
+## 2025-12-29 - patch 5
+- Update component notes
