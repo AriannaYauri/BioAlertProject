@@ -1795,3 +1795,6 @@
 
 ## 2025-12-29 - patch 2
 - Simplify state management
+
+## 2025-12-29 - patch 3
+- Type annotation cleanup
