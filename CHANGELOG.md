@@ -1792,3 +1792,6 @@
 
 ## 2025-12-29 - patch 1
 - Alert threshold validation
+
+## 2025-12-29 - patch 2
+- Simplify state management
