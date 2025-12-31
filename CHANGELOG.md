@@ -1804,3 +1804,6 @@
 
 ## 2025-12-29 - patch 5
 - Update component notes
+
+## 2025-12-30 - patch 1
+- Optimize re-renders
