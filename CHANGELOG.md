@@ -1813,3 +1813,6 @@
 
 ## 2025-12-30 - patch 3
 - Handle edge case in sensor data
+
+## 2025-12-31 - patch 1
+- Update changelog
