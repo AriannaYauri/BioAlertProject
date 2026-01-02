@@ -1828,3 +1828,6 @@
 
 ## 2026-01-01 - patch 1
 - Remove unused imports
+
+## 2026-01-01 - patch 2
+- Handle edge case in sensor data
