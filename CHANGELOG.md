@@ -1837,3 +1837,6 @@
 
 ## 2026-01-03 - patch 1
 - Extract helper function
+
+## 2026-01-03 - patch 2
+- Simplify state management
