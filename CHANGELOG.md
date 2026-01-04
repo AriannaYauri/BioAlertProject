@@ -1834,3 +1834,6 @@
 
 ## 2026-01-01 - patch 3
 - Type annotation cleanup
+
+## 2026-01-03 - patch 1
+- Extract helper function
