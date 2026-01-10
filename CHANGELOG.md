@@ -1870,3 +1870,6 @@
 
 ## 2026-01-09 - patch 1
 - Simplify state management
+
+## 2026-01-09 - patch 2
+- Update component notes
