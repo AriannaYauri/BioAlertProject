@@ -1882,3 +1882,6 @@
 
 ## 2026-01-10 - patch 3
 - Optimize re-renders
+
+## 2026-01-10 - patch 4
+- Clean up alert logic
