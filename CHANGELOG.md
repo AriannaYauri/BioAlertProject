@@ -1885,3 +1885,6 @@
 
 ## 2026-01-10 - patch 4
 - Clean up alert logic
+
+## 2026-01-10 - patch 5
+- Improve responsive layout
