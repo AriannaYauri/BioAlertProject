@@ -1888,3 +1888,6 @@
 
 ## 2026-01-10 - patch 5
 - Improve responsive layout
+
+## 2026-01-11 - patch 1
+- Clean up alert logic
