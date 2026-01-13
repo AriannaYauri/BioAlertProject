@@ -1894,3 +1894,6 @@
 
 ## 2026-01-11 - patch 2
 - Adjust component styling
+
+## 2026-01-12 - patch 1
+- Update changelog
