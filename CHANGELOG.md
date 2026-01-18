@@ -1939,3 +1939,6 @@
 
 ## 2026-01-17 - patch 3
 - Tweak color palette
+
+## 2026-01-17 - patch 4
+- Update changelog
