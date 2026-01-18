@@ -1933,3 +1933,6 @@
 
 ## 2026-01-17 - patch 1
 - Simplify state management
+
+## 2026-01-17 - patch 2
+- Remove unused imports
