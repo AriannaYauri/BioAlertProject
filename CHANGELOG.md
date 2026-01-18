@@ -1930,3 +1930,6 @@
 
 ## 2026-01-15 - patch 5
 - Adjust component styling
+
+## 2026-01-17 - patch 1
+- Simplify state management
