@@ -1945,3 +1945,6 @@
 
 ## 2026-01-18 - patch 1
 - Alert threshold validation
+
+## 2026-01-18 - patch 2
+- Update component notes
