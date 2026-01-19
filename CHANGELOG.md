@@ -1942,3 +1942,6 @@
 
 ## 2026-01-17 - patch 4
 - Update changelog
+
+## 2026-01-18 - patch 1
+- Alert threshold validation
