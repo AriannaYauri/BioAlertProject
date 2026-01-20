@@ -1960,3 +1960,6 @@
 
 ## 2026-01-19 - patch 4
 - Update changelog
+
+## 2026-01-19 - patch 5
+- Update component notes
