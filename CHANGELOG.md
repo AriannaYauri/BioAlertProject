@@ -1948,3 +1948,6 @@
 
 ## 2026-01-18 - patch 2
 - Update component notes
+
+## 2026-01-19 - patch 1
+- Remove unused imports
