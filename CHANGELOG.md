@@ -1954,3 +1954,6 @@
 
 ## 2026-01-19 - patch 2
 - Handle edge case in sensor data
+
+## 2026-01-19 - patch 3
+- Extract helper function
