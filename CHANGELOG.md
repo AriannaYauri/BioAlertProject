@@ -1969,3 +1969,6 @@
 
 ## 2026-01-20 - patch 2
 - Improve responsive layout
+
+## 2026-01-20 - patch 3
+- Handle edge case in sensor data
