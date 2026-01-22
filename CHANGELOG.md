@@ -1978,3 +1978,6 @@
 
 ## 2026-01-21 - patch 2
 - Update component notes
+
+## 2026-01-21 - patch 3
+- Optimize re-renders
