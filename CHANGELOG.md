@@ -1975,3 +1975,6 @@
 
 ## 2026-01-21 - patch 1
 - Update changelog
+
+## 2026-01-21 - patch 2
+- Update component notes
