@@ -1993,3 +1993,6 @@
 
 ## 2026-01-23 - patch 3
 - Tweak color palette
+
+## 2026-01-23 - patch 4
+- Adjust component styling
