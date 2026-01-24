@@ -1996,3 +1996,6 @@
 
 ## 2026-01-23 - patch 4
 - Adjust component styling
+
+## 2026-01-23 - patch 5
+- Extract helper function
