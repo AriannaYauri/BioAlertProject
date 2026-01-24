@@ -1987,3 +1987,6 @@
 
 ## 2026-01-23 - patch 1
 - Optimize re-renders
+
+## 2026-01-23 - patch 2
+- Alert threshold validation
