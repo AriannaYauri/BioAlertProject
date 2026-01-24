@@ -1990,3 +1990,6 @@
 
 ## 2026-01-23 - patch 2
 - Alert threshold validation
+
+## 2026-01-23 - patch 3
+- Tweak color palette
