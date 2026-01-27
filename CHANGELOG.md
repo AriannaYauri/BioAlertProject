@@ -2008,3 +2008,6 @@
 
 ## 2026-01-26 - patch 2
 - Minor code formatting
+
+## 2026-01-26 - patch 3
+- Alert threshold validation
