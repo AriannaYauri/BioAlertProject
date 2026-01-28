@@ -2014,3 +2014,6 @@
 
 ## 2026-01-27 - patch 1
 - Clean up alert logic
+
+## 2026-01-27 - patch 2
+- Extract helper function
