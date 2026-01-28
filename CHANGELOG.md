@@ -2011,3 +2011,6 @@
 
 ## 2026-01-26 - patch 3
 - Alert threshold validation
+
+## 2026-01-27 - patch 1
+- Clean up alert logic
