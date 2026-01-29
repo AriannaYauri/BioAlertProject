@@ -2020,3 +2020,6 @@
 
 ## 2026-01-27 - patch 3
 - Extract helper function
+
+## 2026-01-28 - patch 1
+- Tweak color palette
