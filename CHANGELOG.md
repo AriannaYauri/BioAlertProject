@@ -2023,3 +2023,6 @@
 
 ## 2026-01-28 - patch 1
 - Tweak color palette
+
+## 2026-01-29 - patch 1
+- Update changelog
