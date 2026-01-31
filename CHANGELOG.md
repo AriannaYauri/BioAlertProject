@@ -2029,3 +2029,6 @@
 
 ## 2026-01-29 - patch 2
 - Tweak color palette
+
+## 2026-01-30 - patch 1
+- Update changelog
