@@ -2032,3 +2032,6 @@
 
 ## 2026-01-30 - patch 1
 - Update changelog
+
+## 2026-01-30 - patch 2
+- Handle edge case in sensor data
