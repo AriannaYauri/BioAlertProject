@@ -2035,3 +2035,6 @@
 
 ## 2026-01-30 - patch 2
 - Handle edge case in sensor data
+
+## 2026-01-30 - patch 3
+- Simplify state management
