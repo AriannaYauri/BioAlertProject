@@ -2047,3 +2047,6 @@
 
 ## 2026-01-31 - patch 3
 - Optimize re-renders
+
+## 2026-01-31 - patch 4
+- Extract helper function
