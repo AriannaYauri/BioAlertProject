@@ -2038,3 +2038,6 @@
 
 ## 2026-01-30 - patch 3
 - Simplify state management
+
+## 2026-01-31 - patch 1
+- Type annotation cleanup
