@@ -2053,3 +2053,6 @@
 
 ## 2026-02-01 - patch 1
 - Handle edge case in sensor data
+
+## 2026-02-01 - patch 2
+- Tweak color palette
