@@ -2062,3 +2062,6 @@
 
 ## 2026-02-01 - patch 4
 - Optimize re-renders
+
+## 2026-02-01 - patch 5
+- Remove unused imports
