@@ -2065,3 +2065,6 @@
 
 ## 2026-02-01 - patch 5
 - Remove unused imports
+
+## 2026-02-02 - patch 1
+- Tweak color palette
