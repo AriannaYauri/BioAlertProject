@@ -2077,3 +2077,6 @@
 
 ## 2026-02-02 - patch 4
 - Adjust component styling
+
+## 2026-02-03 - patch 1
+- Tweak color palette
