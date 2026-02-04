@@ -2080,3 +2080,6 @@
 
 ## 2026-02-03 - patch 1
 - Tweak color palette
+
+## 2026-02-03 - patch 2
+- Alert threshold validation
