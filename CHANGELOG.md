@@ -2098,3 +2098,6 @@
 
 ## 2026-02-04 - patch 5
 - Improve responsive layout
+
+## 2026-02-05 - patch 1
+- Update changelog
