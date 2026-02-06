@@ -2107,3 +2107,6 @@
 
 ## 2026-02-05 - patch 3
 - Tweak color palette
+
+## 2026-02-05 - patch 4
+- Update component notes
