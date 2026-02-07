@@ -2110,3 +2110,6 @@
 
 ## 2026-02-05 - patch 4
 - Update component notes
+
+## 2026-02-06 - patch 1
+- Extract helper function
