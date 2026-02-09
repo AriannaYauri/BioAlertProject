@@ -2131,3 +2131,6 @@
 
 ## 2026-02-07 - patch 5
 - Minor code formatting
+
+## 2026-02-08 - patch 1
+- Simplify state management
