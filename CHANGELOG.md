@@ -2137,3 +2137,6 @@
 
 ## 2026-02-08 - patch 2
 - Improve responsive layout
+
+## 2026-02-08 - patch 3
+- Alert threshold validation
