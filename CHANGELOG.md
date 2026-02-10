@@ -2146,3 +2146,6 @@
 
 ## 2026-02-09 - patch 1
 - Minor code formatting
+
+## 2026-02-09 - patch 2
+- Update component notes
