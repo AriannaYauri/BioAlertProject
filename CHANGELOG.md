@@ -2161,3 +2161,6 @@
 
 ## 2026-02-10 - patch 1
 - Alert threshold validation
+
+## 2026-02-10 - patch 2
+- Update changelog
