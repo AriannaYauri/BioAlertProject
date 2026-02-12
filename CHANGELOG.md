@@ -2176,3 +2176,6 @@
 
 ## 2026-02-11 - patch 4
 - Clean up alert logic
+
+## 2026-02-11 - patch 5
+- Update component notes
