@@ -2170,3 +2170,6 @@
 
 ## 2026-02-11 - patch 2
 - Minor code formatting
+
+## 2026-02-11 - patch 3
+- Improve responsive layout
