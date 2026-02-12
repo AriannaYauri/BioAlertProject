@@ -2173,3 +2173,6 @@
 
 ## 2026-02-11 - patch 3
 - Improve responsive layout
+
+## 2026-02-11 - patch 4
+- Clean up alert logic
