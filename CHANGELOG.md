@@ -2164,3 +2164,6 @@
 
 ## 2026-02-10 - patch 2
 - Update changelog
+
+## 2026-02-11 - patch 1
+- Update component notes
