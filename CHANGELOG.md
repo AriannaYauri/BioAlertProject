@@ -2182,3 +2182,6 @@
 
 ## 2026-02-12 - patch 1
 - Alert threshold validation
+
+## 2026-02-14 - patch 1
+- Type annotation cleanup
