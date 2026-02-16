@@ -2185,3 +2185,6 @@
 
 ## 2026-02-14 - patch 1
 - Type annotation cleanup
+
+## 2026-02-15 - patch 1
+- Update component notes
