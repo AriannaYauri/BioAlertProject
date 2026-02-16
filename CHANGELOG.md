@@ -2191,3 +2191,6 @@
 
 ## 2026-02-15 - patch 2
 - Clean up alert logic
+
+## 2026-02-15 - patch 3
+- Alert threshold validation
