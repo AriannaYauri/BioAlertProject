@@ -2206,3 +2206,6 @@
 
 ## 2026-02-16 - patch 4
 - Tweak color palette
+
+## 2026-02-16 - patch 5
+- Clean up alert logic
