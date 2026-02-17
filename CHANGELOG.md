@@ -2197,3 +2197,6 @@
 
 ## 2026-02-16 - patch 1
 - Extract helper function
+
+## 2026-02-16 - patch 2
+- Update changelog
