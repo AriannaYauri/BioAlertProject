@@ -2209,3 +2209,6 @@
 
 ## 2026-02-16 - patch 5
 - Clean up alert logic
+
+## 2026-02-17 - patch 1
+- Extract helper function
