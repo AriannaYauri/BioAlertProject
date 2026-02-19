@@ -2212,3 +2212,6 @@
 
 ## 2026-02-17 - patch 1
 - Extract helper function
+
+## 2026-02-18 - patch 1
+- Improve responsive layout
