@@ -2221,3 +2221,6 @@
 
 ## 2026-02-19 - patch 2
 - Minor code formatting
+
+## 2026-02-19 - patch 3
+- Handle edge case in sensor data
