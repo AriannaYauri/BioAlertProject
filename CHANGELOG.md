@@ -2227,3 +2227,6 @@
 
 ## 2026-02-20 - patch 1
 - Minor code formatting
+
+## 2026-02-21 - patch 1
+- Extract helper function
