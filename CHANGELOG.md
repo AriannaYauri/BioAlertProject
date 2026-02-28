@@ -2275,3 +2275,6 @@
 
 ## 2026-02-27 - patch 1
 - Remove unused imports
+
+## 2026-02-27 - patch 2
+- Type annotation cleanup
