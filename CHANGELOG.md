@@ -2281,3 +2281,6 @@
 
 ## 2026-02-27 - patch 3
 - Update component notes
+
+## 2026-02-27 - patch 4
+- Adjust component styling
