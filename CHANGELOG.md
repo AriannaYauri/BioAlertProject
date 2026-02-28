@@ -2278,3 +2278,6 @@
 
 ## 2026-02-27 - patch 2
 - Type annotation cleanup
+
+## 2026-02-27 - patch 3
+- Update component notes
