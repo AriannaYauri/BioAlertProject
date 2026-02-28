@@ -2272,3 +2272,6 @@
 
 ## 2026-02-26 - patch 3
 - Improve responsive layout
+
+## 2026-02-27 - patch 1
+- Remove unused imports
