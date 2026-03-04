@@ -2299,3 +2299,6 @@
 
 ## 2026-03-03 - patch 3
 - Improve responsive layout
+
+## 2026-03-03 - patch 4
+- Remove unused imports
