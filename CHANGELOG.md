@@ -2290,3 +2290,6 @@
 
 ## 2026-03-01 - patch 1
 - Update component notes
+
+## 2026-03-03 - patch 1
+- Alert threshold validation
