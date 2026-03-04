@@ -2296,3 +2296,6 @@
 
 ## 2026-03-03 - patch 2
 - Update component notes
+
+## 2026-03-03 - patch 3
+- Improve responsive layout
