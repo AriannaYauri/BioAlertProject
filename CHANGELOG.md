@@ -2329,3 +2329,6 @@
 
 ## 2026-03-06 - patch 3
 - Alert threshold validation
+
+## 2026-03-06 - patch 4
+- Remove unused imports
