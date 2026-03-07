@@ -2323,3 +2323,6 @@
 
 ## 2026-03-06 - patch 1
 - Improve responsive layout
+
+## 2026-03-06 - patch 2
+- Remove unused imports
