@@ -2320,3 +2320,6 @@
 
 ## 2026-03-05 - patch 4
 - Improve responsive layout
+
+## 2026-03-06 - patch 1
+- Improve responsive layout
