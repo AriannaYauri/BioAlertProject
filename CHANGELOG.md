@@ -2332,3 +2332,6 @@
 
 ## 2026-03-06 - patch 4
 - Remove unused imports
+
+## 2026-03-06 - patch 5
+- Update component notes
