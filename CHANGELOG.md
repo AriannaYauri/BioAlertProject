@@ -2362,3 +2362,6 @@
 
 ## 2026-03-09 - patch 2
 - Optimize re-renders
+
+## 2026-03-09 - patch 3
+- Update component notes
