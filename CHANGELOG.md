@@ -2383,3 +2383,6 @@
 
 ## 2026-03-12 - patch 2
 - Type annotation cleanup
+
+## 2026-03-12 - patch 3
+- Improve responsive layout
