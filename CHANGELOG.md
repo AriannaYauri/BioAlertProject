@@ -2392,3 +2392,6 @@
 
 ## 2026-03-13 - patch 1
 - Extract helper function
+
+## 2026-03-13 - patch 2
+- Tweak color palette
