@@ -2404,3 +2404,6 @@
 
 ## 2026-03-15 - patch 2
 - Minor code formatting
+
+## 2026-03-15 - patch 3
+- Alert threshold validation
