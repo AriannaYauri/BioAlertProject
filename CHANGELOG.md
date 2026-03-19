@@ -2431,3 +2431,6 @@
 
 ## 2026-03-18 - patch 2
 - Minor code formatting
+
+## 2026-03-18 - patch 3
+- Remove unused imports
