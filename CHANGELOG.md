@@ -2458,3 +2458,6 @@
 
 ## 2026-03-21 - patch 4
 - Alert threshold validation
+
+## 2026-03-21 - patch 5
+- Update changelog
