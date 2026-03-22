@@ -2452,3 +2452,6 @@
 
 ## 2026-03-21 - patch 2
 - Simplify state management
+
+## 2026-03-21 - patch 3
+- Update component notes
