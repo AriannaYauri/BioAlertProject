@@ -2461,3 +2461,6 @@
 
 ## 2026-03-21 - patch 5
 - Update changelog
+
+## 2026-03-23 - patch 1
+- Improve responsive layout
