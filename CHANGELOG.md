@@ -2473,3 +2473,6 @@
 
 ## 2026-03-24 - patch 2
 - Extract helper function
+
+## 2026-03-24 - patch 3
+- Simplify state management
