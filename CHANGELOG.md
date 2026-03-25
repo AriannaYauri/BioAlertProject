@@ -2476,3 +2476,6 @@
 
 ## 2026-03-24 - patch 3
 - Simplify state management
+
+## 2026-03-24 - patch 4
+- Adjust component styling
