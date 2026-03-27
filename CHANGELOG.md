@@ -2482,3 +2482,6 @@
 
 ## 2026-03-25 - patch 1
 - Simplify state management
+
+## 2026-03-26 - patch 1
+- Tweak color palette
