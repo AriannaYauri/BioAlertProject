@@ -2491,3 +2491,6 @@
 
 ## 2026-03-27 - patch 1
 - Clean up alert logic
+
+## 2026-03-27 - patch 2
+- Type annotation cleanup
