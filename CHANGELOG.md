@@ -2509,3 +2509,6 @@
 
 ## 2026-04-01 - patch 1
 - Tweak color palette
+
+## 2026-04-01 - patch 2
+- Alert threshold validation
