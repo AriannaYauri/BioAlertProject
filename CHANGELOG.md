@@ -2518,3 +2518,6 @@
 
 ## 2026-04-02 - patch 2
 - Update component notes
+
+## 2026-04-02 - patch 3
+- Extract helper function
