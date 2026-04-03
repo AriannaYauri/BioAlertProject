@@ -2524,3 +2524,6 @@
 
 ## 2026-04-02 - patch 4
 - Alert threshold validation
+
+## 2026-04-02 - patch 5
+- Extract helper function
