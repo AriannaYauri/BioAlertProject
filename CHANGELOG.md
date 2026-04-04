@@ -2527,3 +2527,6 @@
 
 ## 2026-04-02 - patch 5
 - Extract helper function
+
+## 2026-04-03 - patch 1
+- Adjust component styling
