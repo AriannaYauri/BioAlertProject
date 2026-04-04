@@ -2533,3 +2533,6 @@
 
 ## 2026-04-03 - patch 2
 - Improve responsive layout
+
+## 2026-04-03 - patch 3
+- Tweak color palette
