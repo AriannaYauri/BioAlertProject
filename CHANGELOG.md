@@ -2545,3 +2545,6 @@
 
 ## 2026-04-05 - patch 3
 - Handle edge case in sensor data
+
+## 2026-04-06 - patch 1
+- Optimize re-renders
