@@ -2548,3 +2548,6 @@
 
 ## 2026-04-06 - patch 1
 - Optimize re-renders
+
+## 2026-04-06 - patch 2
+- Improve responsive layout
