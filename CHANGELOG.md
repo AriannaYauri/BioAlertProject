@@ -2551,3 +2551,6 @@
 
 ## 2026-04-06 - patch 2
 - Improve responsive layout
+
+## 2026-04-08 - patch 1
+- Update component notes
