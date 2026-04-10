@@ -2563,3 +2563,6 @@
 
 ## 2026-04-08 - patch 4
 - Handle edge case in sensor data
+
+## 2026-04-09 - patch 1
+- Alert threshold validation
