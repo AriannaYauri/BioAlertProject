@@ -2572,3 +2572,6 @@
 
 ## 2026-04-09 - patch 3
 - Tweak color palette
+
+## 2026-04-09 - patch 4
+- Update changelog
