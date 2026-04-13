@@ -2584,3 +2584,6 @@
 
 ## 2026-04-12 - patch 2
 - Simplify state management
+
+## 2026-04-12 - patch 3
+- Alert threshold validation
