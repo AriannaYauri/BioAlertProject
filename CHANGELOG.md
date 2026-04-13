@@ -2578,3 +2578,6 @@
 
 ## 2026-04-11 - patch 1
 - Adjust component styling
+
+## 2026-04-12 - patch 1
+- Clean up alert logic
