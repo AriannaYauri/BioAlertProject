@@ -2596,3 +2596,6 @@
 
 ## 2026-04-14 - patch 1
 - Type annotation cleanup
+
+## 2026-04-14 - patch 2
+- Improve responsive layout
