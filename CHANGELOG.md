@@ -2608,3 +2608,6 @@
 
 ## 2026-04-17 - patch 1
 - Improve responsive layout
+
+## 2026-04-17 - patch 2
+- Update changelog
