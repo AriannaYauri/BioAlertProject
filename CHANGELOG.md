@@ -2611,3 +2611,6 @@
 
 ## 2026-04-17 - patch 2
 - Update changelog
+
+## 2026-04-17 - patch 3
+- Type annotation cleanup
