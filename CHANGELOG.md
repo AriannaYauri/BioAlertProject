@@ -2638,3 +2638,6 @@
 
 ## 2026-04-21 - patch 4
 - Handle edge case in sensor data
+
+## 2026-04-21 - patch 5
+- Update changelog
