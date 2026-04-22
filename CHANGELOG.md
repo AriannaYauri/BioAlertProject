@@ -2626,3 +2626,6 @@
 
 ## 2026-04-20 - patch 4
 - Type annotation cleanup
+
+## 2026-04-21 - patch 1
+- Adjust component styling
