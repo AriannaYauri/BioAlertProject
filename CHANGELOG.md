@@ -2647,3 +2647,6 @@
 
 ## 2026-04-22 - patch 2
 - Minor code formatting
+
+## 2026-04-22 - patch 3
+- Clean up alert logic
