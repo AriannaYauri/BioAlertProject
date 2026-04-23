@@ -2650,3 +2650,6 @@
 
 ## 2026-04-22 - patch 3
 - Clean up alert logic
+
+## 2026-04-22 - patch 4
+- Alert threshold validation
