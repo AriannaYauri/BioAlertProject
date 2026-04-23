@@ -2641,3 +2641,6 @@
 
 ## 2026-04-21 - patch 5
 - Update changelog
+
+## 2026-04-22 - patch 1
+- Optimize re-renders
