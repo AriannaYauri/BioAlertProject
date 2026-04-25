@@ -2662,3 +2662,6 @@
 
 ## 2026-04-24 - patch 1
 - Update component notes
+
+## 2026-04-24 - patch 2
+- Handle edge case in sensor data
