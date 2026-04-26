@@ -2680,3 +2680,6 @@
 
 ## 2026-04-25 - patch 2
 - Simplify state management
+
+## 2026-04-25 - patch 3
+- Improve responsive layout
