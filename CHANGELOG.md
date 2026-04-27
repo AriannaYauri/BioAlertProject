@@ -2683,3 +2683,6 @@
 
 ## 2026-04-25 - patch 3
 - Improve responsive layout
+
+## 2026-04-26 - patch 1
+- Adjust component styling
