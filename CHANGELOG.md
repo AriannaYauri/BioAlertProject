@@ -2695,3 +2695,6 @@
 
 ## 2026-04-26 - patch 4
 - Clean up alert logic
+
+## 2026-04-27 - patch 1
+- Simplify state management
