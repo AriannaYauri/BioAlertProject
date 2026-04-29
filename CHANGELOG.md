@@ -2701,3 +2701,6 @@
 
 ## 2026-04-27 - patch 2
 - Adjust component styling
+
+## 2026-04-28 - patch 1
+- Remove unused imports
