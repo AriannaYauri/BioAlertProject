@@ -2714,3 +2714,4 @@
 ## 2026-04-28 - patch 4
 - Improve responsive layout
 - 2026-04-30 update 1
+- 2026-05-01 update 1
